@@ -19,3 +19,4 @@ user_type(user_list)
 print("---")
 
 print("Задание 2")
+
